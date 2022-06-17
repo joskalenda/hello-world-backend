@@ -64,7 +64,6 @@ group :development do
   # gem "spring"
 
   gem 'rack-cors'
-
 end
 
 group :test do
